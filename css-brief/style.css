@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 5%;
+    background-color: #7c7a87;
+}
+header{
+    text-align: center;
+}
+section{
+    display: flex;
+    margin-top: 10vh;
+}
+.column{
+    flex-direction: column;
+}
