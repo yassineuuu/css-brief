@@ -8,7 +8,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 5%;
-    background-color: #7c7a87;
+    background-color: hsl(0, 0%, 98%);
 }
 header{
     text-align: center;
